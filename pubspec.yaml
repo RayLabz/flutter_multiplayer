@@ -1,7 +1,8 @@
 name: multiplayer
 description: A Flutter package for implementing multiplayer game features.
 version: 0.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: "https://pub.dev/packages/multiplayer/"
+repository: "https://github.com/RayLabz/flutter_multiplayer"
 
 environment:
   sdk: ^3.9.2
