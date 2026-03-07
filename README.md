@@ -1,4 +1,8 @@
-The `multiplayer` package helps implement multiplayer online games through Flutter.
+The `multiplayer` package helps implement multiplayer online game backends through Flutter.
+
+> [!IMPORTANT]
+> The package is currently under development. Source code and documentation are not yet available.
+> For questions, requests, or issues, please contact raylabzg@gmail.com
 
 ## Indicative Features
 
@@ -13,7 +17,3 @@ The `multiplayer` package helps implement multiplayer online games through Flutt
 * Action logging
 * Chat & Presence
 * Different types of games (turn-based, casual real-time, board games, puzzles, etc.)
-
-## IMPORTANT
-
-This package is currently under development. For questions, requests, or issues, please contact raylabzg@gmail.com.
