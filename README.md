@@ -1,4 +1,8 @@
 The `multiplayer` package helps implement multiplayer online game backends through Flutter.
+It integrates with the `athlos` package and provides various UI elements and tools for implementing
+multiplayer games using Flutter.
+
+See [Athlos package]()
 
 > [!IMPORTANT]
 > The package is currently under development. Source code and documentation are not yet available.
