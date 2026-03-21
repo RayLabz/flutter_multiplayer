@@ -1,6 +1,6 @@
 name: multiplayer
 description: A Flutter package for implementing multiplayer game features.
-version: 0.0.0+2
+version: 0.0.0+3
 homepage: "https://pub.dev/packages/multiplayer/"
 repository: "https://github.com/RayLabz/flutter_multiplayer"
 
@@ -27,7 +27,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  athlos: ^0.0.1+1
+  athlos: ^0.0.2
 #  athlos:
 #    path: ../athlos_dart
 
